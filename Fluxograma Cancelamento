@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2022-06-09T21:25:04.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="c0iDkHZl0dv1K2iItnJx" version="19.0.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1769" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Cliente solicitou cancelamento do plano" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-250" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="20" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-5" value="sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="SC41ZJg6aF791fO97IZD-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Revertido cancelamento" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-40" y="15" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-6" value="Encerrado" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-8" value="não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-7" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-12" value="sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-7" target="SC41ZJg6aF791fO97IZD-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-13" value="não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-7" target="SC41ZJg6aF791fO97IZD-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-7" value="é cliente dedicado ou interconexão?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-47.5" y="200" width="135" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-15" value="Seguir com o fluxo de cancelamento" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="195" y="245" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-16" target="SC41ZJg6aF791fO97IZD-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-16" value="Abrir tarefa para a ativação modelo de tarefa &quot;cancelamento - dedicado e interconexão&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-50" y="390" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-19" target="SC41ZJg6aF791fO97IZD-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-19" value="Ativação fará analise e remoção das configurações" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-50" y="550" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-22" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-20" target="SC41ZJg6aF791fO97IZD-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="793.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-30" value="sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SC41ZJg6aF791fO97IZD-20" target="SC41ZJg6aF791fO97IZD-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-20" value="Há remoção de equipamentos?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60" y="720" width="160" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-23" value="Repassar para a cobrança finalizar" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="763.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SC41ZJg6aF791fO97IZD-31" value="Repassar para remoção de equipamento" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-40" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
